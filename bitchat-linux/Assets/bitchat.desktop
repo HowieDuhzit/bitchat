@@ -1,0 +1,14 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=BitChat Linux
+Comment=Decentralized Bluetooth mesh messaging
+GenericName=Mesh Messenger
+Exec=bitchat-linux
+Icon=bitchat
+Terminal=false
+Categories=Network;InstantMessaging;Qt;
+Keywords=bluetooth;mesh;messaging;decentralized;p2p;
+StartupNotify=true
+MimeType=application/x-bitchat;
+StartupWMClass=bitchat-linux 

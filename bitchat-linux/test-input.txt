@@ -1,0 +1,5 @@
+/help
+/j general
+Hello world!
+/status
+/quit 

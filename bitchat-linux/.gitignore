@@ -1,0 +1,171 @@
+# Build directories
+build/
+build-*/
+debug/
+release/
+
+# CMake generated files
+CMakeCache.txt
+CMakeFiles/
+CMakeScripts/
+Testing/
+Makefile
+cmake_install.cmake
+install_manifest.txt
+compile_commands.json
+CTestTestfile.cmake
+_deps/
+
+# Qt generated files
+*.pro.user
+*.pro.user.*
+*.qws
+*.qmlc
+*.jsc
+moc_*.cpp
+moc_*.h
+qrc_*.cpp
+ui_*.h
+*.qm
+*.prl
+*.rcc
+*.autosave
+*.stash
+
+# Object files
+*.o
+*.obj
+*.lo
+*.slo
+*.ko
+*.elf
+
+# Linker output
+*.ilk
+*.map
+*.exp
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Libraries
+*.lib
+*.a
+*.la
+*.lo
+*.dll
+*.so
+*.so.*
+*.dylib
+
+# Executables
+*.exe
+*.out
+*.app
+bitchat-linux
+bitchat
+
+# Debug files
+*.dSYM/
+*.su
+*.idb
+*.pdb
+
+# Kernel Module Compile Results
+*.mod*
+*.cmd
+.tmp_versions/
+modules.order
+Module.symvers
+Mkfile.old
+dkms.conf
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.temp
+*.log
+*.bak
+*.backup
+*.orig
+*.rej
+
+# Runtime files
+*.pid
+*.seed
+*.pid.lock
+
+# Configuration files (may contain sensitive data)
+config.ini
+settings.conf
+*.key
+*.pem
+*.crt
+
+# Test files
+test_results/
+coverage/
+*.gcov
+*.gcda
+*.gcno
+
+# Package files
+*.tar.gz
+*.tgz
+*.zip
+*.rar
+*.7z
+*.rpm
+*.deb
+
+# Local development
+local/
+.env
+.env.local
+.env.*.local
+
+# Documentation build
+docs/build/
+docs/_build/
+
+# Backup files
+*~
+*.bak
+*.backup
+*.swp
+*.tmp
+
+# Core dumps
+core
+core.*
+
+# Profiling data
+*.prof
+*.gprof
+gmon.out
+
+# Valgrind output
+*.valgrind
+massif.out.*
+
+# Address sanitizer
+*.asan
+*.tsan
+*.msan
+*.ubsan 
